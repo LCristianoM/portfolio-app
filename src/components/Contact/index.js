@@ -4,7 +4,6 @@ import { AnimatedLetters } from '../AnimatedLetters';
 import emailjs from '@emailjs/browser';
 
 import './index.scss';
-import { Map } from '../Map';
 
 
 export const Contact = () => {
